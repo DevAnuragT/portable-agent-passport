@@ -1,3 +1,8 @@
+---
+name: portability-advisor
+description: Explain portable agent architecture, runtime migration, and verification.
+---
+
 # Portability advisor skill
 
 ## Purpose
