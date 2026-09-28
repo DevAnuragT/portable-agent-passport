@@ -1,0 +1,28 @@
+# Progress
+
+- 2026-09-28 — Inspected workspace; no application scaffold exists yet.
+- 2026-09-28 — Created autonomous Plan → Build → Review → Test workflow.
+- 2026-09-28 — Selected default concept: Portable Agent Passport.
+- 2026-09-28 — Built F0 scaffold with Python package layout and test runner.
+- 2026-09-28 — Built F1 manifest schema with validation, round-trip serialisation, and stable fingerprinting.
+- 2026-09-28 — Reviewed F0/F1 for secret-free, framework-neutral design.
+- 2026-09-28 — Tested F0/F1: 2 unittest cases passed.
+- 2026-09-28 — Built F2 framework-neutral core with model/tool protocols, request/response types, runtime checks, and trace output.
+- 2026-09-28 — Built F3 native and portable-JSON adapters over the same core contract.
+- 2026-09-28 — Built F4 offline verification checks for manifest validity, adapter parity, deterministic replay, and invalid-input rejection.
+- 2026-09-28 — Reviewed F2–F4 for framework leakage, secret handling, and deterministic behaviour.
+- 2026-09-28 — Tested F2–F4: 5 unittest cases passed; Python compilation passed.
+- 2026-09-28 — Built F5 offline demo workflow and `python -m agent_passport` CLI for run/verify commands.
+- 2026-09-28 — Built F6 Makefile, dependency-free execution path, Dockerfile, and checked-in passport configuration.
+- 2026-09-28 — Built F7 README, architecture explanation, demo commands, and reproducible evidence output.
+- 2026-09-28 — Built F8 submission checklist and final local review.
+- 2026-09-28 — Reviewed all features for portability and secret safety; no credentials or network calls present.
+- 2026-09-28 — Tested final suite: 8 tests passed; verification 4/4 passed; compileall passed.
+- 2026-09-28 — Docker build attempted but skipped as unverified because the local Docker daemon was unavailable.
+- 2026-09-28 — Current state: local build complete; official organizer score remains unverified until manual registration/checkpoint submission.
+- 2026-09-29 — Audited the supplied challenge rules in `CHALLENGE_AUDIT.md`.
+- 2026-09-29 — Conclusion: local prototype foundation is ready, but official HiDevs gates/submission, a recognised framework migration demo, concrete tool use, and practical-impact evidence remain incomplete.
+- 2026-09-29 — Added HiDevs passport contract files: `agent.yaml`, `SOUL.md`, `EXPLAINABILITY.md`, `DUTIES.md`, `AGENTS.md`, tools, skill, and four framework-shaped adapters.
+- 2026-09-29 — Local preflight passed: 9 project tests, 4 root contract tests, and all four adapter-shaped tests.
+- 2026-09-29 — Hardened adapter imports for direct execution and parsed `agent.yaml` successfully with a YAML parser.
+- 2026-09-29 — Official checkpoint/visa results remain unverified; no official score claimed.

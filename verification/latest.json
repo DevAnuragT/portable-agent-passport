@@ -1,0 +1,11 @@
+{
+  "manifest_fingerprint": "c3181968e3e886c1a6a57fd1e8fa3e9c2506c92e9c3d5595bdb570cfe911f410",
+  "checks": [
+    {"name": "manifest-valid", "passed": true},
+    {"name": "adapter-parity", "passed": true},
+    {"name": "deterministic-replay", "passed": true},
+    {"name": "invalid-input-rejected", "passed": true}
+  ],
+  "tests_passed": 8,
+  "organizer_score": 0
+}

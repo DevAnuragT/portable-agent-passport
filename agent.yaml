@@ -1,0 +1,13 @@
+spec_version: 0.1.0
+name: portable-agent-passport
+version: 0.1.0
+description: A portable, verifiable agent that answers portability and migration questions.
+entrypoint: tools/run_agent.py
+tools:
+  - path: tools/run_agent.py
+    name: run_agent
+  - path: tools/verify_passport.py
+    name: verify_passport
+skills:
+  - path: skills/portability/SKILL.md
+    name: portability-advisor

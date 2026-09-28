@@ -1,0 +1,8 @@
+{
+  "name": "portable-research-agent",
+  "version": "0.1.0",
+  "capabilities": ["answer", "summarise"],
+  "input_schema": {"type": "object", "required": ["task"]},
+  "output_schema": {"type": "object", "required": ["answer", "trace"]},
+  "runtimes": ["native", "portable-json"]
+}
