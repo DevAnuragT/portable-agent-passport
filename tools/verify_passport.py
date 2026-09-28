@@ -14,8 +14,8 @@ from agent_passport.demo import build_demo_core  # noqa: E402
 from agent_passport.verify import run_checks  # noqa: E402
 
 
-def verify() -> list[dict[str, object]]:
-    return [result.__dict__ for result in run_checks(build_demo_core())]
+def verify() -> dict[str, object]:
+    return {"checks": [result.__dict__ for result in run_checks(build_demo_core())]}
 
 
 if __name__ == "__main__":

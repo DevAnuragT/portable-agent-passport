@@ -1,0 +1,15 @@
+name: verify-passport
+description: Run local passport verification checks
+version: 0.1.0
+input_schema:
+  type: object
+  properties: {}
+output_schema:
+  type: object
+  properties:
+    checks:
+      type: array
+implementation:
+  type: script
+  path: verify_passport.py
+  runtime: python3

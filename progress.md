@@ -31,3 +31,5 @@
 - 2026-09-29 — Ran strict local OpenGAP preflight: minimal manifest, required files, headings, paragraph content, and Maker/Checker separation all pass.
 - 2026-09-29 — Ran both test suites: 13 tests passed total; tool entrypoints and four local adapter shapes executed successfully.
 - 2026-09-29 — Fixed the local contract test to match the strict three-key manifest and pushed commit `a4f60f7`.
+- 2026-09-29 — Read the official OpenGAP README/specification and aligned `agent.yaml`, skill metadata, rules, and MCP-compatible tool schemas.
+- 2026-09-29 — OpenGAP CLI validation passed with 0 warnings; latest explainability content includes purpose, capability, decision, inputs, outputs, tools, skills, verification, failure modes, dependencies, oversight, safety, portability, and limits.

@@ -1,0 +1,24 @@
+name: run-agent
+description: Execute the portable agent for one task
+version: 0.1.0
+input_schema:
+  type: object
+  properties:
+    task:
+      type: string
+      description: Task for the agent
+    runtime:
+      type: string
+      enum: [native, portable-json]
+  required: [task]
+output_schema:
+  type: object
+  properties:
+    answer: {type: string}
+    runtime: {type: string}
+    passport_fingerprint: {type: string}
+    trace: {type: array}
+implementation:
+  type: script
+  path: run_agent.py
+  runtime: python3

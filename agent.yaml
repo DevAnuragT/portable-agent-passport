@@ -2,3 +2,11 @@ spec_version: 0.1.0
 name: portable-agent-passport
 version: 0.1.0
 description: A portable and verifiable agent that helps developers understand agent runtime migration.
+skills:
+  - portability
+tools:
+  - run-agent
+  - verify-passport
+tags:
+  - developer-tools
+  - agent-portability

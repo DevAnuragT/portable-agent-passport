@@ -1,5 +1,5 @@
 ---
-name: portability-advisor
+name: portability
 description: Explain portable agent architecture, runtime migration, and verification.
 ---
 

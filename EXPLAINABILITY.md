@@ -1,6 +1,7 @@
 # Overview
 
 This agent is a portability advisor for developers building and migrating AI agents. It preserves an explicit identity, input contract, output contract, and verification trail while runtime adapters change around the core.
+It is designed to be understandable without reading the implementation code.
 
 # Purpose
 
@@ -32,7 +33,7 @@ The repository provides a run tool for executing the agent and a verification to
 
 # Skills
 
-The portability-advisor skill explains how to separate framework-neutral business logic from runtime-specific adapters. It also instructs the agent to distinguish local evidence from official HiDevs verification.
+The `portability` skill explains how to separate framework-neutral business logic from runtime-specific adapters. It also instructs the agent to distinguish local evidence from official HiDevs verification.
 
 # Verification
 
