@@ -8,6 +8,7 @@
 - Official visas: **0/4 verified**; local adapter-shaped tests are not official visa results.
 - Maximum stated scoring formula: **575 points**; achieved official score: **0**.
 - Public repository: `https://github.com/DevAnuragT/portable-agent-passport` (main).
+- Latest local preflight: **PASS**; 13 tests passed across project and passport-contract suites.
 - Last checked: **2026-09-29**.
 
 Only record points backed by an organizer checkpoint, submission receipt, or reproducible local evidence. Do not estimate rank or invent points.

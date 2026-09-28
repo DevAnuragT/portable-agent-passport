@@ -28,3 +28,6 @@
 - 2026-09-29 — Official checkpoint/visa results remain unverified; no official score claimed.
 - 2026-09-29 — Initialised Git, committed the submission, and pushed public repository `https://github.com/DevAnuragT/portable-agent-passport` on `main`.
 - 2026-09-29 — Next manual action: connect GitHub on the HiDevs page, select `DevAnuragT/portable-agent-passport`, choose a category, and begin validation.
+- 2026-09-29 — Ran strict local OpenGAP preflight: minimal manifest, required files, headings, paragraph content, and Maker/Checker separation all pass.
+- 2026-09-29 — Ran both test suites: 13 tests passed total; tool entrypoints and four local adapter shapes executed successfully.
+- 2026-09-29 — Fixed the local contract test to match the strict three-key manifest and pushed commit `a4f60f7`.
