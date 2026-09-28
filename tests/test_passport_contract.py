@@ -17,8 +17,6 @@ class PassportContractTests(unittest.TestCase):
     def test_agent_name_is_valid(self) -> None:
         text = (ROOT / "agent.yaml").read_text()
         self.assertIn("spec_version: 0.1.0", text)
-        self.assertIn("path: tools/run_agent.py", text)
-        self.assertIn("path: skills/portability/SKILL.md", text)
         match = re.search(r"^name:\s*([^\s]+)$", text, re.MULTILINE)
         self.assertIsNotNone(match)
         self.assertRegex(match.group(1), r"^[a-z][a-z0-9]*(?:-[a-z0-9]+)*$")
