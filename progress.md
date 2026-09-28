@@ -26,3 +26,5 @@
 - 2026-09-29 — Local preflight passed: 9 project tests, 4 root contract tests, and all four adapter-shaped tests.
 - 2026-09-29 — Hardened adapter imports for direct execution and parsed `agent.yaml` successfully with a YAML parser.
 - 2026-09-29 — Official checkpoint/visa results remain unverified; no official score claimed.
+- 2026-09-29 — Initialised Git, committed the submission, and pushed public repository `https://github.com/DevAnuragT/portable-agent-passport` on `main`.
+- 2026-09-29 — Next manual action: connect GitHub on the HiDevs page, select `DevAnuragT/portable-agent-passport`, choose a category, and begin validation.

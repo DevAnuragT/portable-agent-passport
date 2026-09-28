@@ -19,6 +19,7 @@
 ## Manual organizer actions
 
 - [ ] Register on the official challenge page.
+- [x] Public GitHub repository created: `https://github.com/DevAnuragT/portable-agent-passport`.
 - [ ] Confirm the exact checkpoint rubric, required runtimes, and submission format.
 - [ ] Replace or extend the demo provider only when permitted by the rubric.
 - [ ] Record each official checkpoint receipt and points in `scores.md`.
