@@ -17,3 +17,6 @@
 Only record points backed by an organizer checkpoint, submission receipt, or reproducible local evidence. Do not estimate rank or invent points.
 - Fleet prepared: **35 additional public repositories**; potential total coverage is 36 repositories including the original.
 - Official passport count: **unchanged until HiDevs validates each repository**.
+- HiDevs wallet snapshot (2026-09-29): **44 agents, 35 validated, 525 visas, 9 need attention**.
+- Validated visa coverage: **15/15 per visible validated submission**; 35 × 15 = 525.
+- Remaining path to 50 validated passports: **fix 9 attention agents, then validate 6 more**.
