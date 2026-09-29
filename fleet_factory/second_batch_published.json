@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "break-even-simulator",
+    "repo": "DevAnuragT/agent-break-even-simulator",
+    "url": "https://github.com/DevAnuragT/agent-break-even-simulator",
+    "title": "Break-even Simulator"
+  },
+  {
+    "slug": "calendar-collision-detector",
+    "repo": "DevAnuragT/agent-calendar-collision-detector",
+    "url": "https://github.com/DevAnuragT/agent-calendar-collision-detector",
+    "title": "Calendar Collision Detector"
+  },
+  {
+    "slug": "csv-formula-guard",
+    "repo": "DevAnuragT/agent-csv-formula-guard",
+    "url": "https://github.com/DevAnuragT/agent-csv-formula-guard",
+    "title": "CSV Formula Guard"
+  },
+  {
+    "slug": "feature-flag-rollout-evaluator",
+    "repo": "DevAnuragT/agent-feature-flag-rollout-evaluator",
+    "url": "https://github.com/DevAnuragT/agent-feature-flag-rollout-evaluator",
+    "title": "Feature Flag Rollout Evaluator"
+  },
+  {
+    "slug": "json-contract-diff",
+    "repo": "DevAnuragT/agent-json-contract-diff",
+    "url": "https://github.com/DevAnuragT/agent-json-contract-diff",
+    "title": "JSON Contract Diff"
+  },
+  {
+    "slug": "markdown-anchor-checker",
+    "repo": "DevAnuragT/agent-markdown-anchor-checker",
+    "url": "https://github.com/DevAnuragT/agent-markdown-anchor-checker",
+    "title": "Markdown Anchor Checker"
+  },
+  {
+    "slug": "refund-policy-evaluator",
+    "repo": "DevAnuragT/agent-refund-policy-evaluator",
+    "url": "https://github.com/DevAnuragT/agent-refund-policy-evaluator",
+    "title": "Refund Policy Evaluator"
+  },
+  {
+    "slug": "retry-budget-planner",
+    "repo": "DevAnuragT/agent-retry-budget-planner",
+    "url": "https://github.com/DevAnuragT/agent-retry-budget-planner",
+    "title": "Retry Budget Planner"
+  },
+  {
+    "slug": "robots-policy-inspector",
+    "repo": "DevAnuragT/agent-robots-policy-inspector",
+    "url": "https://github.com/DevAnuragT/agent-robots-policy-inspector",
+    "title": "Robots Policy Inspector"
+  },
+  {
+    "slug": "slo-error-budget-calculator",
+    "repo": "DevAnuragT/agent-slo-error-budget-calculator",
+    "url": "https://github.com/DevAnuragT/agent-slo-error-budget-calculator",
+    "title": "SLO Error Budget Calculator"
+  },
+  {
+    "slug": "subtitle-timeline-checker",
+    "repo": "DevAnuragT/agent-subtitle-timeline-checker",
+    "url": "https://github.com/DevAnuragT/agent-subtitle-timeline-checker",
+    "title": "Subtitle Timeline Checker"
+  },
+  {
+    "slug": "task-dependency-scheduler",
+    "repo": "DevAnuragT/agent-task-dependency-scheduler",
+    "url": "https://github.com/DevAnuragT/agent-task-dependency-scheduler",
+    "title": "Task Dependency Scheduler"
+  },
+  {
+    "slug": "unicode-confusable-detector",
+    "repo": "DevAnuragT/agent-unicode-confusable-detector",
+    "url": "https://github.com/DevAnuragT/agent-unicode-confusable-detector",
+    "title": "Unicode Confusable Detector"
+  },
+  {
+    "slug": "unit-price-normalizer",
+    "repo": "DevAnuragT/agent-unit-price-normalizer",
+    "url": "https://github.com/DevAnuragT/agent-unit-price-normalizer",
+    "title": "Unit Price Normalizer"
+  },
+  {
+    "slug": "webhook-replay-verifier",
+    "repo": "DevAnuragT/agent-webhook-replay-verifier",
+    "url": "https://github.com/DevAnuragT/agent-webhook-replay-verifier",
+    "title": "Webhook Replay Verifier"
+  }
+]

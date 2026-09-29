@@ -47,3 +47,9 @@
 - 2026-09-29 — Passport Wallet screenshot confirms 44 agents, 35 validated, 525 visas, and 9 needing attention; validated submissions show 15/15 visas.
 - 2026-09-29 — Revised target: repair the 9 attention submissions first, then add only 6 more validated agents to reach 50.
 - 2026-09-29 — Derived score plan from wallet evidence: each complete agent is 3 checkpoints + 15 visas = 1,650 points; fixing 9 then adding 6 complete agents targets 82,525 points before leaderboard movement.
+- 2026-09-29 — Designed 15 additional non-duplicate agents: Unicode safety, subtitle timelines, Markdown anchors, JSON contract diffs, calendar collisions, CSV formula safety, robots policies, retry budgets, SLO budgets, rollout guardrails, DAG scheduling, webhook replay windows, unit-price normalization, refund policy checks, and break-even simulation.
+- 2026-09-29 — Hardened the 15 new cores with domain-specific edge cases and tests: 171 agent tests total across both delegated batches.
+- 2026-09-29 — Completed OpenGAP files and tool schemas for all 15; all 50 fleet directories pass local tests and OpenGAP validation.
+- 2026-09-29 — Generated all 4 export formats for each new agent: 60 export artifacts created successfully.
+- 2026-09-29 — Published and remotely verified all 15 new public repositories; see `fleet_factory/SECOND_BATCH_QUEUE.md`.
+- 2026-09-29 — Official passport issuance for the new batch remains pending HiDevs validation; no score increase claimed.

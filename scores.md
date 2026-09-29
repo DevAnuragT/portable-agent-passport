@@ -22,3 +22,6 @@ Only record points backed by an organizer checkpoint, submission receipt, or rep
 - Remaining path to 50 validated passports: **fix 9 attention agents, then validate 6 more**.
 - Score formula: **3 checkpoints × 50 + 15 visas × 100 = 1,650 points per fully validated passport**, plus the one-time 25-point first-passport bonus.
 - Perfect-score projection: 35 validated ≈ **57,775**; 44 after repairing attention ≈ **72,625**; 50 complete ≈ **82,525**, subject to leaderboard movement.
+- Second batch prepared: **15 additional distinct public repositories**; combined prepared fleet is 50 agents.
+- Second batch local readiness: **15/15 OpenGAP-valid, 15/15 test suites passing, 15/15 with 4/4 exports generated**.
+- Second batch official passports: **pending HiDevs**; do not count them until the wallet shows issuance.
