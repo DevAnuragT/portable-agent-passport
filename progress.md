@@ -40,3 +40,7 @@
 - 2026-09-29 — Analysed public leading-agent repositories: strongest pattern is a narrow, useful deterministic agent with evidence-backed findings, real tools, fixtures, tests, and framework adapters.
 - 2026-09-29 — Added an evidence-driven OpenGAP repository auditor, MCP-compatible `audit-agent` schema, explainable findings, and audit tests.
 - 2026-09-29 — Final preflight: 15 tests passed, OpenGAP validation 0 warnings, 4/4 exports generated, repository audit passed with 0 errors.
+- 2026-09-29 — Generated 35 distinct domain-specific agents with deterministic rules, fixtures, tests, tools, skills, and adapter-shaped modules.
+- 2026-09-29 — Validated all 35 locally: 2 tests per agent and OpenGAP validation passed.
+- 2026-09-29 — Published all 35 as public GitHub repositories under `DevAnuragT/agent-*`.
+- 2026-09-29 — Confirmed 35 public fleet repositories and representative remote `agent.yaml` files; HiDevs passports are still pending manual submission.

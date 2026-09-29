@@ -15,3 +15,5 @@
 - Last checked: **2026-09-29**.
 
 Only record points backed by an organizer checkpoint, submission receipt, or reproducible local evidence. Do not estimate rank or invent points.
+- Fleet prepared: **35 additional public repositories**; potential total coverage is 36 repositories including the original.
+- Official passport count: **unchanged until HiDevs validates each repository**.

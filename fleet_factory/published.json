@@ -1,0 +1,177 @@
+[
+  {
+    "slug": "api-docs-auditor",
+    "repo": "DevAnuragT/agent-api-docs-auditor",
+    "url": "https://github.com/DevAnuragT/agent-api-docs-auditor\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "repo-health-auditor",
+    "repo": "DevAnuragT/agent-repo-health-auditor",
+    "url": "https://github.com/DevAnuragT/agent-repo-health-auditor\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "docker-readiness-auditor",
+    "repo": "DevAnuragT/agent-docker-readiness-auditor",
+    "url": "https://github.com/DevAnuragT/agent-docker-readiness-auditor\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "dependency-risk-auditor",
+    "repo": "DevAnuragT/agent-dependency-risk-auditor",
+    "url": "https://github.com/DevAnuragT/agent-dependency-risk-auditor\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "environment-auditor",
+    "repo": "DevAnuragT/agent-environment-auditor",
+    "url": "https://github.com/DevAnuragT/agent-environment-auditor\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "git-hygiene-auditor",
+    "repo": "DevAnuragT/agent-git-hygiene-auditor",
+    "url": "https://github.com/DevAnuragT/agent-git-hygiene-auditor\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "sql-migration-auditor",
+    "repo": "DevAnuragT/agent-sql-migration-auditor",
+    "url": "https://github.com/DevAnuragT/agent-sql-migration-auditor\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "security-config-auditor",
+    "repo": "DevAnuragT/agent-security-config-auditor",
+    "url": "https://github.com/DevAnuragT/agent-security-config-auditor\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "ci-failure-diagnostician",
+    "repo": "DevAnuragT/agent-ci-failure-diagnostician",
+    "url": "https://github.com/DevAnuragT/agent-ci-failure-diagnostician\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "performance-reviewer",
+    "repo": "DevAnuragT/agent-performance-reviewer",
+    "url": "https://github.com/DevAnuragT/agent-performance-reviewer\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "pr-quality-reviewer",
+    "repo": "DevAnuragT/agent-pr-quality-reviewer",
+    "url": "https://github.com/DevAnuragT/agent-pr-quality-reviewer\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "package-auditor",
+    "repo": "DevAnuragT/agent-package-auditor",
+    "url": "https://github.com/DevAnuragT/agent-package-auditor\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "log-quality-auditor",
+    "repo": "DevAnuragT/agent-log-quality-auditor",
+    "url": "https://github.com/DevAnuragT/agent-log-quality-auditor\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "license-compliance-checker",
+    "repo": "DevAnuragT/agent-license-compliance-checker",
+    "url": "https://github.com/DevAnuragT/agent-license-compliance-checker\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "cloud-deployment-auditor",
+    "repo": "DevAnuragT/agent-cloud-deployment-auditor",
+    "url": "https://github.com/DevAnuragT/agent-cloud-deployment-auditor\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "accessibility-content-auditor",
+    "repo": "DevAnuragT/agent-accessibility-content-auditor",
+    "url": "https://github.com/DevAnuragT/agent-accessibility-content-auditor\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "appointment-prep-assistant",
+    "repo": "DevAnuragT/agent-appointment-prep-assistant",
+    "url": "https://github.com/DevAnuragT/agent-appointment-prep-assistant\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "study-workload-planner",
+    "repo": "DevAnuragT/agent-study-workload-planner",
+    "url": "https://github.com/DevAnuragT/agent-study-workload-planner\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "resume-match-advisor",
+    "repo": "DevAnuragT/agent-resume-match-advisor",
+    "url": "https://github.com/DevAnuragT/agent-resume-match-advisor\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "support-triage-agent",
+    "repo": "DevAnuragT/agent-support-triage-agent",
+    "url": "https://github.com/DevAnuragT/agent-support-triage-agent\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "inventory-restock-advisor",
+    "repo": "DevAnuragT/agent-inventory-restock-advisor",
+    "url": "https://github.com/DevAnuragT/agent-inventory-restock-advisor\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "travel-constraint-checker",
+    "repo": "DevAnuragT/agent-travel-constraint-checker",
+    "url": "https://github.com/DevAnuragT/agent-travel-constraint-checker\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "product-comparison-advisor",
+    "repo": "DevAnuragT/agent-product-comparison-advisor",
+    "url": "https://github.com/DevAnuragT/agent-product-comparison-advisor\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "budget-auditor",
+    "repo": "DevAnuragT/agent-budget-auditor",
+    "url": "https://github.com/DevAnuragT/agent-budget-auditor\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "invoice-consistency-checker",
+    "repo": "DevAnuragT/agent-invoice-consistency-checker",
+    "url": "https://github.com/DevAnuragT/agent-invoice-consistency-checker\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "contract-clause-checker",
+    "repo": "DevAnuragT/agent-contract-clause-checker",
+    "url": "https://github.com/DevAnuragT/agent-contract-clause-checker\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "content-quality-auditor",
+    "repo": "DevAnuragT/agent-content-quality-auditor",
+    "url": "https://github.com/DevAnuragT/agent-content-quality-auditor\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "interview-plan-builder",
+    "repo": "DevAnuragT/agent-interview-plan-builder",
+    "url": "https://github.com/DevAnuragT/agent-interview-plan-builder\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "property-match-advisor",
+    "repo": "DevAnuragT/agent-property-match-advisor",
+    "url": "https://github.com/DevAnuragT/agent-property-match-advisor\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "maintenance-checker",
+    "repo": "DevAnuragT/agent-maintenance-checker",
+    "url": "https://github.com/DevAnuragT/agent-maintenance-checker\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "supply-delay-analyzer",
+    "repo": "DevAnuragT/agent-supply-delay-analyzer",
+    "url": "https://github.com/DevAnuragT/agent-supply-delay-analyzer\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "citation-checker",
+    "repo": "DevAnuragT/agent-citation-checker",
+    "url": "https://github.com/DevAnuragT/agent-citation-checker\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "incident-checklist-agent",
+    "repo": "DevAnuragT/agent-incident-checklist-agent",
+    "url": "https://github.com/DevAnuragT/agent-incident-checklist-agent\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "data-quality-profiler",
+    "repo": "DevAnuragT/agent-data-quality-profiler",
+    "url": "https://github.com/DevAnuragT/agent-data-quality-profiler\nbranch 'main' set up to track 'origin/main'."
+  },
+  {
+    "slug": "discharge-auditor",
+    "repo": "DevAnuragT/agent-discharge-auditor",
+    "url": "https://github.com/DevAnuragT/agent-discharge-auditor\nbranch 'main' set up to track 'origin/main'."
+  }
+]
