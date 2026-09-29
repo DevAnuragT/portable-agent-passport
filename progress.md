@@ -46,3 +46,4 @@
 - 2026-09-29 — Confirmed 35 public fleet repositories and representative remote `agent.yaml` files; HiDevs passports are still pending manual submission.
 - 2026-09-29 — Passport Wallet screenshot confirms 44 agents, 35 validated, 525 visas, and 9 needing attention; validated submissions show 15/15 visas.
 - 2026-09-29 — Revised target: repair the 9 attention submissions first, then add only 6 more validated agents to reach 50.
+- 2026-09-29 — Derived score plan from wallet evidence: each complete agent is 3 checkpoints + 15 visas = 1,650 points; fixing 9 then adding 6 complete agents targets 82,525 points before leaderboard movement.

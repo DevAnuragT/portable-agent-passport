@@ -20,3 +20,5 @@ Only record points backed by an organizer checkpoint, submission receipt, or rep
 - HiDevs wallet snapshot (2026-09-29): **44 agents, 35 validated, 525 visas, 9 need attention**.
 - Validated visa coverage: **15/15 per visible validated submission**; 35 × 15 = 525.
 - Remaining path to 50 validated passports: **fix 9 attention agents, then validate 6 more**.
+- Score formula: **3 checkpoints × 50 + 15 visas × 100 = 1,650 points per fully validated passport**, plus the one-time 25-point first-passport bonus.
+- Perfect-score projection: 35 validated ≈ **57,775**; 44 after repairing attention ≈ **72,625**; 50 complete ≈ **82,525**, subject to leaderboard movement.
