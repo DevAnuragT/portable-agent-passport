@@ -7,3 +7,4 @@ build/
 *.egg-info/
 .opencode/
 opencode.jsonc
+passport-fleet/
