@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "accessibility-color-contrast",
+    "repo": "DevAnuragT/agent-accessibility-color-contrast",
+    "url": "https://github.com/DevAnuragT/agent-accessibility-color-contrast",
+    "title": "Accessibility Color Contrast"
+  },
+  {
+    "slug": "consent-record-checker",
+    "repo": "DevAnuragT/agent-consent-record-checker",
+    "url": "https://github.com/DevAnuragT/agent-consent-record-checker",
+    "title": "Consent Record Checker"
+  },
+  {
+    "slug": "data-retention-calculator",
+    "repo": "DevAnuragT/agent-data-retention-calculator",
+    "url": "https://github.com/DevAnuragT/agent-data-retention-calculator",
+    "title": "Data Retention Calculator"
+  },
+  {
+    "slug": "dependency-license-conflict",
+    "repo": "DevAnuragT/agent-dependency-license-conflict",
+    "url": "https://github.com/DevAnuragT/agent-dependency-license-conflict",
+    "title": "Dependency License Conflict"
+  },
+  {
+    "slug": "document-retention-classifier",
+    "repo": "DevAnuragT/agent-document-retention-classifier",
+    "url": "https://github.com/DevAnuragT/agent-document-retention-classifier",
+    "title": "Document Retention Classifier"
+  },
+  {
+    "slug": "experiment-sample-checker",
+    "repo": "DevAnuragT/agent-experiment-sample-checker",
+    "url": "https://github.com/DevAnuragT/agent-experiment-sample-checker",
+    "title": "Experiment Sample Checker"
+  },
+  {
+    "slug": "image-metadata-privacy",
+    "repo": "DevAnuragT/agent-image-metadata-privacy",
+    "url": "https://github.com/DevAnuragT/agent-image-metadata-privacy",
+    "title": "Image Metadata Privacy Inspector"
+  },
+  {
+    "slug": "incident-severity-triager",
+    "repo": "DevAnuragT/agent-incident-severity-triager",
+    "url": "https://github.com/DevAnuragT/agent-incident-severity-triager",
+    "title": "Incident Severity Triager"
+  },
+  {
+    "slug": "kpi-trend-analyzer",
+    "repo": "DevAnuragT/agent-kpi-trend-analyzer",
+    "url": "https://github.com/DevAnuragT/agent-kpi-trend-analyzer",
+    "title": "KPI Trend Analyzer"
+  },
+  {
+    "slug": "meeting-action-tracker",
+    "repo": "DevAnuragT/agent-meeting-action-tracker",
+    "url": "https://github.com/DevAnuragT/agent-meeting-action-tracker",
+    "title": "Meeting Action Tracker"
+  },
+  {
+    "slug": "on-call-handoff-checker",
+    "repo": "DevAnuragT/agent-on-call-handoff-checker",
+    "url": "https://github.com/DevAnuragT/agent-on-call-handoff-checker",
+    "title": "On-call Handoff Checker"
+  },
+  {
+    "slug": "password-policy-checker",
+    "repo": "DevAnuragT/agent-password-policy-checker",
+    "url": "https://github.com/DevAnuragT/agent-password-policy-checker",
+    "title": "Password Policy Checker"
+  },
+  {
+    "slug": "pii-redaction-auditor",
+    "repo": "DevAnuragT/agent-pii-redaction-auditor",
+    "url": "https://github.com/DevAnuragT/agent-pii-redaction-auditor",
+    "title": "PII Redaction Auditor"
+  },
+  {
+    "slug": "procurement-quote-comparator",
+    "repo": "DevAnuragT/agent-procurement-quote-comparator",
+    "url": "https://github.com/DevAnuragT/agent-procurement-quote-comparator",
+    "title": "Procurement Quote Comparator"
+  },
+  {
+    "slug": "release-readiness-gate",
+    "repo": "DevAnuragT/agent-release-readiness-gate",
+    "url": "https://github.com/DevAnuragT/agent-release-readiness-gate",
+    "title": "Release Readiness Gate"
+  }
+]
