@@ -33,3 +33,6 @@
 - 2026-09-29 — Fixed the local contract test to match the strict three-key manifest and pushed commit `a4f60f7`.
 - 2026-09-29 — Read the official OpenGAP README/specification and aligned `agent.yaml`, skill metadata, rules, and MCP-compatible tool schemas.
 - 2026-09-29 — OpenGAP CLI validation passed with 0 warnings; latest explainability content includes purpose, capability, decision, inputs, outputs, tools, skills, verification, failure modes, dependencies, oversight, safety, portability, and limits.
+- 2026-09-29 — Repository visibility changed to private as requested; this blocks the HiDevs flow that requires a public repository.
+- 2026-09-29 — Improved manifest model metadata, SOUL export sections, and good/bad calibration examples.
+- 2026-09-29 — Export preflight passed for OpenAI, CrewAI, Claude Code, and Lyzr; OpenGAP validation passed with 0 warnings; 13 tests passed.

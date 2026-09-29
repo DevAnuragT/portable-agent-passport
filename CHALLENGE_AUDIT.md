@@ -28,6 +28,10 @@ Audit date: **2026-09-29 (Asia/Calcutta)**
 
 The repository satisfies the **local prototype foundation**, but it does **not** yet satisfy all competition requirements. The two hard blockers are official HiDevs verification/submission and a more substantial cross-framework/useful-agent demonstration.
 
+## Repository visibility
+
+The repository is currently private by participant request. HiDevs' registration flow explicitly asks for a **public repository**, so validation and additional official visas cannot be obtained while it remains private unless HiDevs grants the connected account private-repository access.
+
 ## Checkpoint preflight
 
 - **Checkpoint 1 — Validate:** Local preflight passes: required root files, manifest name/spec version, listed paths, and Maker/Checker separation are present. Official platform result: **not yet run**.

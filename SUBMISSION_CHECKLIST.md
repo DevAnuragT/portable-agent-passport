@@ -19,7 +19,7 @@
 ## Manual organizer actions
 
 - [ ] Register on the official challenge page.
-- [x] Public GitHub repository created: `https://github.com/DevAnuragT/portable-agent-passport`.
+- [ ] Public GitHub repository available for HiDevs validation: the repository is currently private by request.
 - [ ] Confirm the exact checkpoint rubric, required runtimes, and submission format.
 - [ ] Replace or extend the demo provider only when permitted by the rubric.
 - [ ] Record each official checkpoint receipt and points in `scores.md`.
@@ -32,3 +32,4 @@
 - Manifest fingerprint: `c3181968e3e886c1a6a57fd1e8fa3e9c2506c92e9c3d5595bdb570cfe911f410`.
 - Container build: not locally verified because the Docker daemon was unavailable; Dockerfile received static review.
 - Rule audit: see `CHALLENGE_AUDIT.md`.
+- Export preflight: OpenAI, CrewAI, Claude Code, and Lyzr exports all generated successfully locally.

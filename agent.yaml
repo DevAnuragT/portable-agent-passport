@@ -2,6 +2,11 @@ spec_version: 0.1.0
 name: portable-agent-passport
 version: 0.1.0
 description: A portable and verifiable agent that helps developers understand agent runtime migration.
+model:
+  preferred: gpt-4.1
+  constraints:
+    temperature: 0.2
+    max_tokens: 1200
 skills:
   - portability
 tools:
