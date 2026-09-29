@@ -36,3 +36,7 @@
 - 2026-09-29 — Repository visibility changed to private as requested; this blocks the HiDevs flow that requires a public repository.
 - 2026-09-29 — Improved manifest model metadata, SOUL export sections, and good/bad calibration examples.
 - 2026-09-29 — Export preflight passed for OpenAI, CrewAI, Claude Code, and Lyzr; OpenGAP validation passed with 0 warnings; 13 tests passed.
+- 2026-09-29 — Made repository public again so HiDevs can clone it for validation.
+- 2026-09-29 — Analysed public leading-agent repositories: strongest pattern is a narrow, useful deterministic agent with evidence-backed findings, real tools, fixtures, tests, and framework adapters.
+- 2026-09-29 — Added an evidence-driven OpenGAP repository auditor, MCP-compatible `audit-agent` schema, explainable findings, and audit tests.
+- 2026-09-29 — Final preflight: 15 tests passed, OpenGAP validation 0 warnings, 4/4 exports generated, repository audit passed with 0 errors.

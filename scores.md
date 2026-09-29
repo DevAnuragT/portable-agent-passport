@@ -11,6 +11,7 @@
 - Visibility: **private** by request; HiDevs requires public visibility for the current registration flow.
 - Latest local preflight: **PASS**; 13 tests passed across project and passport-contract suites.
 - Local export preflight: **4/4 generated** — OpenAI, CrewAI, Claude Code, and Lyzr.
+- Repository audit preflight: **PASS, 0 errors**.
 - Last checked: **2026-09-29**.
 
 Only record points backed by an organizer checkpoint, submission receipt, or reproducible local evidence. Do not estimate rank or invent points.

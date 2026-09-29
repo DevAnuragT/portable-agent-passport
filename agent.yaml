@@ -12,6 +12,7 @@ skills:
 tools:
   - run-agent
   - verify-passport
+  - audit-agent
 tags:
   - developer-tools
   - agent-portability

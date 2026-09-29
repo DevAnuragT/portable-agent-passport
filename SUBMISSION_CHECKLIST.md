@@ -10,6 +10,9 @@
 - [x] README includes setup, architecture, evidence, and demo commands.
 - [x] No credentials, tokens, or network dependencies are included.
 - [x] Dockerfile is provided for reproducible execution.
+- [x] A focused, evidence-driven repository-audit tool is demonstrated.
+- [x] Concrete tool schemas are present for run, verify, and audit operations.
+- [x] Calibration examples document good and bad outputs.
 - [ ] A useful specialised agent is demonstrated, rather than only the offline echo demo.
 - [ ] Migration between recognised frameworks/runtimes is demonstrated.
 - [ ] At least one concrete tool is used and verified.
@@ -33,3 +36,4 @@
 - Container build: not locally verified because the Docker daemon was unavailable; Dockerfile received static review.
 - Rule audit: see `CHALLENGE_AUDIT.md`.
 - Export preflight: OpenAI, CrewAI, Claude Code, and Lyzr exports all generated successfully locally.
+- Repository audit preflight: **PASS** with 0 errors.

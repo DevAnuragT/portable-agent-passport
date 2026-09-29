@@ -1,0 +1,21 @@
+name: audit-agent
+description: Inspect an OpenGAP-style repository and return evidence-backed findings
+version: 0.1.0
+input_schema:
+  type: object
+  properties:
+    path:
+      type: string
+      description: Local repository path to inspect
+  required: [path]
+output_schema:
+  type: object
+  properties:
+    path: {type: string}
+    status: {type: string}
+    error_count: {type: integer}
+    findings: {type: array}
+implementation:
+  type: script
+  path: audit_agent.py
+  runtime: python3
