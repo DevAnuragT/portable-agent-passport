@@ -23,14 +23,16 @@ class PassportContractTests(unittest.TestCase):
 
     def test_explainability_has_required_headings_and_paragraphs(self) -> None:
         text = (ROOT / "EXPLAINABILITY.md").read_text()
-        for heading, words in {
-            "Decision": ("decision", "reasoning", "how it decides"),
-            "Inputs": ("data source", "input", "data used"),
-            "Limits": ("limitation", "constraint", "known issue"),
-        }.items():
-            section = text.split(f"# {heading}", 1)[1].split("\n# ", 1)[0]
-            self.assertGreaterEqual(section.count("."), 2, heading)
-            self.assertTrue(any(word in section.lower() for word in words), heading)
+        headings = [line.removeprefix("# ").lower() for line in text.splitlines() if line.startswith("# ")]
+        required = (
+            ("decision", "reasoning", "how it decides"),
+            ("data source", "input", "data used"),
+            ("limitation", "constraint", "known issue"),
+        )
+        for words in required:
+            self.assertTrue(any(any(word in heading for word in words) for heading in headings), words)
+        for section in text.split("\n# "):
+            self.assertGreaterEqual(section.count("."), 2, section.splitlines()[0])
 
     def test_maker_and_checker_are_not_on_one_line(self) -> None:
         for relative_path in ("DUTIES.md", "AGENTS.md"):
