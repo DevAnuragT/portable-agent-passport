@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools==75.8.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "signalpost"
+version = "0.2.0"
+description = "Deterministic, evidence-backed Norwegian company profile agent"
+requires-python = ">=3.9,<3.13"
+readme = "README.md"
+dependencies = []
+
+[project.scripts]
+signalpost = "signalpost.cli:main"
+signalpost-smoke = "signalpost.smoke:main"
+
+[tool.setuptools.package-data]
+signalpost = ["fixtures/*.json"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

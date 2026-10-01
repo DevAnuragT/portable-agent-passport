@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools==75.8.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "signalpost-eval"
+version = "0.1.0"
+description = "Offline deterministic evaluator for Signalpost JSONL terminal envelopes"
+requires-python = ">=3.9,<3.13"
+dependencies = []
+
+[project.scripts]
+signalpost-eval = "signalpost_eval.cli:main"
+
+[tool.setuptools]
+packages = ["signalpost_eval"]

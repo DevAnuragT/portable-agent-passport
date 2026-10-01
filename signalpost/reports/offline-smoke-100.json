@@ -1,0 +1,25 @@
+{
+  "checks_passed": true,
+  "evidence_linkage_errors": 0,
+  "exactly_one_terminal_envelope_per_input": true,
+  "expected_inputs": 100,
+  "failures": [],
+  "official_score_claimed": false,
+  "report_type": "signalpost_local_contract_smoke",
+  "requests": 0,
+  "runtime_ms_p50": 0,
+  "runtime_ms_p95": 0,
+  "runtime_ms_total": 0,
+  "source": "two bundled fixture companies plus generated deterministic organisation numbers",
+  "states": {
+    "ambiguous": 0,
+    "available": 2,
+    "blocked": 0,
+    "failed": 0,
+    "not_applicable": 0,
+    "not_available": 98
+  },
+  "terminal_envelopes": 100,
+  "third_party_cost_usd": 0.0,
+  "wrong_company_publications": 0
+}

@@ -1,0 +1,84 @@
+{
+  "fixture": "signalpost-phase-1-brreg-v1",
+  "defaults": {"retrieved_at": "2026-09-01T00:00:00Z"},
+  "companies": [
+    {
+      "organisation_number": "923609016",
+      "modules": {
+        "legal_identity": {
+          "status_code": 200,
+          "body": {
+            "organisasjonsnummer": "923609016",
+            "navn": "Example Signal AS",
+            "organisasjonsform": {"kode": "AS", "beskrivelse": "Aksjeselskap"},
+            "antallAnsatte": 3,
+            "hjemmeside": "https://example.no/",
+            "naeringskode1": {"kode": "62.010", "beskrivelse": "Programmering"},
+            "forretningsadresse": {"adresse": ["Testveien 1"], "postnummer": "0001", "poststed": "Oslo"},
+            "sisteInnsendteAarsregnskap": "2025"
+          }
+        },
+        "annual_accounts": {
+          "status_code": 200,
+          "reporting_period": "2025",
+          "body": [{
+            "id": 2025,
+            "regnskapstype": "SELSKAP",
+            "valuta": "NOK",
+            "regnskapsperiode": {"fraDato": "2025-01-01", "tilDato": "2025-12-31"},
+            "resultatregnskapResultat": {"driftsresultat": {"driftsinntekter": {"sumDriftsinntekter": 1250000}, "driftsresultat": 180000}, "aarsresultat": 140000},
+            "eiendeler": {"sumEiendeler": 950000},
+            "egenkapitalGjeld": {"egenkapital": {"sumEgenkapital": 350000}, "gjeldOversikt": {"sumGjeld": 600000}}
+          }]
+        },
+        "annual_account_history": {"status_code": 200, "body": ["2025", "2024"]},
+        "leadership": {
+          "status_code": 200,
+          "body": {"rollegrupper": [{"type": {"kode": "DAGL", "beskrivelse": "Daglig leder"}, "sistEndret": "2025-04-01", "roller": [{"person": {"navn": {"fornavn": "Ada", "etternavn": "Nord"}}, "type": {"kode": "DAGL", "beskrivelse": "Daglig leder"}}]}]}
+        },
+        "workplaces": {"status_code": 200, "body": {"_embedded": {"underenheter": [{"organisasjonsnummer": "923609024", "navn": "Example Signal AS Oslo", "antallAnsatte": 3, "beliggenhetsadresse": {"adresse": ["Testveien 1"], "postnummer": "0001", "poststed": "Oslo"}}]}}},
+        "group_links": {"status_code": 200, "body": {"organisasjonsnummer": "923609016", "relasjoner": []}},
+        "website_profile": {
+          "status_code": 200,
+          "source_url": "https://example.no/",
+          "source_class": "company_owned",
+          "body": {
+            "verified": true,
+            "identity_match": {"organisation_number": true, "legal_name": true},
+            "url": "https://example.no/",
+            "title": "Example Signal AS",
+            "description": "Software for reliable signals.",
+            "links": [{"url": "https://example.no/careers", "text": "Careers"}, {"url": "https://example.no/news", "text": "News"}],
+            "same_as": [],
+            "jobs": [{"url": "https://example.no/careers/backend", "title": "Backend engineer", "datePosted": "2026-08-20"}],
+            "activity": [{"url": "https://example.no/news/launch", "title": "Product launch", "datePublished": "2026-08-01"}],
+            "dated_text": ["2026-08-01"],
+            "retrieved_text_sha256": "fixture"
+          }
+        },
+        "hiring_activity": {
+          "status_code": 200,
+          "source_url": "https://example.no/",
+          "source_class": "company_owned",
+          "body": {"jobs": [{"url": "https://example.no/careers/backend", "title": "Backend engineer", "datePosted": "2026-08-20"}]}
+        },
+        "public_activity": {
+          "status_code": 200,
+          "source_url": "https://example.no/",
+          "source_class": "company_owned",
+          "body": {"activity": [{"url": "https://example.no/news/launch", "title": "Product launch", "datePublished": "2026-08-01"}], "dated_text": ["2026-08-01"]}
+        }
+      }
+    },
+    {
+      "organisation_number": "974760673",
+      "modules": {
+        "legal_identity": {
+          "status_code": 200,
+          "body": {"organisasjonsnummer": "974760673", "navn": "Registry Fixture AS", "organisasjonsform": {"kode": "AS"}, "antallAnsatte": 0}
+        },
+        "annual_accounts": {"status_code": 404, "error": "no annual account response in fixture", "body": null}
+      }
+    }
+  ]
+}

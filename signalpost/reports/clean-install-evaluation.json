@@ -1,0 +1,117 @@
+{
+  "availability": {
+    "claim_states": {
+      "ambiguous": 5,
+      "available": 11,
+      "blocked": 0,
+      "failed": 0,
+      "not_applicable": 0,
+      "not_available": 12
+    },
+    "envelope_states": {
+      "ambiguous": 0,
+      "available": 2,
+      "blocked": 0,
+      "failed": 0,
+      "not_applicable": 0,
+      "not_available": 1
+    },
+    "profile_section_states": {
+      "ambiguous": 4,
+      "available": 8,
+      "blocked": 0,
+      "failed": 0,
+      "not_applicable": 0,
+      "not_available": 9
+    }
+  },
+  "envelopes": [
+    {
+      "index": 1,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "923609016",
+      "valid": true
+    },
+    {
+      "index": 2,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "974760673",
+      "valid": true
+    },
+    {
+      "index": 3,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "123456785",
+      "valid": true
+    }
+  ],
+  "evidence": {
+    "available_claim_count": 11,
+    "evidence_count": 23,
+    "linked_evidence_reference_count": 23,
+    "span_validity_percent": 100.0,
+    "unsupported_claim_count": 0
+  },
+  "findings": [],
+  "identity": {
+    "matching_count": 2,
+    "mismatch_count": 0,
+    "missing_identity_count": 0,
+    "precision_percent": 66.6667,
+    "requested_count": 3
+  },
+  "passed": true,
+  "refresh": {
+    "change_event_count": 0,
+    "change_type_counts": {},
+    "envelopes_with_changes": 0,
+    "snapshot_count": 21
+  },
+  "report_digest": "d813f5b141b5bea0b737ade3c75ff3b7eb04a94cda6261f5ccdbe8d59acc05ee",
+  "report_version": "signalpost-eval/1",
+  "requests": {
+    "per_envelope": {
+      "count": 3,
+      "max": 0.0,
+      "mean": 0.0,
+      "median": 0.0,
+      "min": 0.0,
+      "p95": 0.0
+    },
+    "total_cost_usd": 0.0,
+    "total_requests": 0
+  },
+  "runtime": {
+    "cost_usd": {
+      "count": 3,
+      "max": 0.0,
+      "mean": 0.0,
+      "median": 0.0,
+      "min": 0.0,
+      "p95": 0.0
+    },
+    "runtime_ms": {
+      "count": 3,
+      "max": 0.0,
+      "mean": 0.0,
+      "median": 0.0,
+      "min": 0.0,
+      "p95": 0.0
+    }
+  },
+  "schema": {
+    "envelope_count": 3,
+    "error_count": 0,
+    "errors_by_category": {},
+    "extra_envelope_count": 0,
+    "input_count": 3,
+    "invalid_envelope_count": 0,
+    "missing_envelope_count": 0,
+    "one_envelope_per_input": true,
+    "paired_count": 3,
+    "valid_envelope_count": 3
+  }
+}

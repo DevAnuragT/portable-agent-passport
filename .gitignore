@@ -8,3 +8,12 @@ build/
 .opencode/
 opencode.jsonc
 passport-fleet/
+signalpost/reports/*-output.jsonl
+signalpost/reports/public-universe-*.jsonl
+signalpost/reports/public-universe-next-100.jsonl
+signalpost/reports/news-rss-next-100-observations.jsonl
+signalpost/reports/news-rss-next-100-report.json
+signalpost/reports/smoke-100.json
+signalpost/reports/public-universe-*.json
+!signalpost/reports/public-universe-100-foundation-v2-eval.json
+!signalpost/reports/public-universe-100-discovery-v2-eval.json

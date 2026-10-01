@@ -1,0 +1,796 @@
+{
+  "availability": {
+    "claim_states": {
+      "ambiguous": 0,
+      "available": 122,
+      "blocked": 3,
+      "failed": 33,
+      "not_applicable": 0,
+      "not_available": 760
+    },
+    "envelope_states": {
+      "ambiguous": 0,
+      "available": 100,
+      "blocked": 0,
+      "failed": 0,
+      "not_applicable": 0,
+      "not_available": 0
+    },
+    "profile_section_states": {
+      "ambiguous": 0,
+      "available": 104,
+      "blocked": 3,
+      "failed": 22,
+      "not_applicable": 0,
+      "not_available": 571
+    }
+  },
+  "envelopes": [
+    {
+      "index": 1,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810034882",
+      "valid": true
+    },
+    {
+      "index": 2,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810059672",
+      "valid": true
+    },
+    {
+      "index": 3,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810094532",
+      "valid": true
+    },
+    {
+      "index": 4,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810098252",
+      "valid": true
+    },
+    {
+      "index": 5,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810105372",
+      "valid": true
+    },
+    {
+      "index": 6,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810130822",
+      "valid": true
+    },
+    {
+      "index": 7,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810182482",
+      "valid": true
+    },
+    {
+      "index": 8,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810202572",
+      "valid": true
+    },
+    {
+      "index": 9,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810274042",
+      "valid": true
+    },
+    {
+      "index": 10,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810324562",
+      "valid": true
+    },
+    {
+      "index": 11,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810359862",
+      "valid": true
+    },
+    {
+      "index": 12,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810363142",
+      "valid": true
+    },
+    {
+      "index": 13,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810392312",
+      "valid": true
+    },
+    {
+      "index": 14,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810393572",
+      "valid": true
+    },
+    {
+      "index": 15,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810412402",
+      "valid": true
+    },
+    {
+      "index": 16,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810431172",
+      "valid": true
+    },
+    {
+      "index": 17,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810432322",
+      "valid": true
+    },
+    {
+      "index": 18,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810438452",
+      "valid": true
+    },
+    {
+      "index": 19,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810441682",
+      "valid": true
+    },
+    {
+      "index": 20,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810463902",
+      "valid": true
+    },
+    {
+      "index": 21,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810483822",
+      "valid": true
+    },
+    {
+      "index": 22,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810547472",
+      "valid": true
+    },
+    {
+      "index": 23,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810574232",
+      "valid": true
+    },
+    {
+      "index": 24,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810582332",
+      "valid": true
+    },
+    {
+      "index": 25,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810584742",
+      "valid": true
+    },
+    {
+      "index": 26,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810684402",
+      "valid": true
+    },
+    {
+      "index": 27,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810703342",
+      "valid": true
+    },
+    {
+      "index": 28,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810733772",
+      "valid": true
+    },
+    {
+      "index": 29,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810855762",
+      "valid": true
+    },
+    {
+      "index": 30,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810859482",
+      "valid": true
+    },
+    {
+      "index": 31,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810876832",
+      "valid": true
+    },
+    {
+      "index": 32,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810894342",
+      "valid": true
+    },
+    {
+      "index": 33,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810902612",
+      "valid": true
+    },
+    {
+      "index": 34,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "810969652",
+      "valid": true
+    },
+    {
+      "index": 35,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811025542",
+      "valid": true
+    },
+    {
+      "index": 36,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811060402",
+      "valid": true
+    },
+    {
+      "index": 37,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811102822",
+      "valid": true
+    },
+    {
+      "index": 38,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811114642",
+      "valid": true
+    },
+    {
+      "index": 39,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811141402",
+      "valid": true
+    },
+    {
+      "index": 40,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811162582",
+      "valid": true
+    },
+    {
+      "index": 41,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811167452",
+      "valid": true
+    },
+    {
+      "index": 42,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811176702",
+      "valid": true
+    },
+    {
+      "index": 43,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811235482",
+      "valid": true
+    },
+    {
+      "index": 44,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811251682",
+      "valid": true
+    },
+    {
+      "index": 45,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811280852",
+      "valid": true
+    },
+    {
+      "index": 46,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811320862",
+      "valid": true
+    },
+    {
+      "index": 47,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811349372",
+      "valid": true
+    },
+    {
+      "index": 48,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811410012",
+      "valid": true
+    },
+    {
+      "index": 49,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811413682",
+      "valid": true
+    },
+    {
+      "index": 50,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811451002",
+      "valid": true
+    },
+    {
+      "index": 51,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811480282",
+      "valid": true
+    },
+    {
+      "index": 52,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811489972",
+      "valid": true
+    },
+    {
+      "index": 53,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811546402",
+      "valid": true
+    },
+    {
+      "index": 54,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811546712",
+      "valid": true
+    },
+    {
+      "index": 55,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811546852",
+      "valid": true
+    },
+    {
+      "index": 56,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811548022",
+      "valid": true
+    },
+    {
+      "index": 57,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811548472",
+      "valid": true
+    },
+    {
+      "index": 58,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811548642",
+      "valid": true
+    },
+    {
+      "index": 59,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811548812",
+      "valid": true
+    },
+    {
+      "index": 60,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811550582",
+      "valid": true
+    },
+    {
+      "index": 61,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811557552",
+      "valid": true
+    },
+    {
+      "index": 62,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811563382",
+      "valid": true
+    },
+    {
+      "index": 63,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811563722",
+      "valid": true
+    },
+    {
+      "index": 64,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811564222",
+      "valid": true
+    },
+    {
+      "index": 65,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811565032",
+      "valid": true
+    },
+    {
+      "index": 66,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811572322",
+      "valid": true
+    },
+    {
+      "index": 67,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811572802",
+      "valid": true
+    },
+    {
+      "index": 68,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811573302",
+      "valid": true
+    },
+    {
+      "index": 69,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811576182",
+      "valid": true
+    },
+    {
+      "index": 70,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811576972",
+      "valid": true
+    },
+    {
+      "index": 71,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811577022",
+      "valid": true
+    },
+    {
+      "index": 72,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811577332",
+      "valid": true
+    },
+    {
+      "index": 73,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811577472",
+      "valid": true
+    },
+    {
+      "index": 74,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811577642",
+      "valid": true
+    },
+    {
+      "index": 75,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811577812",
+      "valid": true
+    },
+    {
+      "index": 76,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811578282",
+      "valid": true
+    },
+    {
+      "index": 77,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811580082",
+      "valid": true
+    },
+    {
+      "index": 78,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811580422",
+      "valid": true
+    },
+    {
+      "index": 79,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811581232",
+      "valid": true
+    },
+    {
+      "index": 80,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811583472",
+      "valid": true
+    },
+    {
+      "index": 81,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811584762",
+      "valid": true
+    },
+    {
+      "index": 82,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811585092",
+      "valid": true
+    },
+    {
+      "index": 83,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811585572",
+      "valid": true
+    },
+    {
+      "index": 84,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811589292",
+      "valid": true
+    },
+    {
+      "index": 85,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811592692",
+      "valid": true
+    },
+    {
+      "index": 86,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811593362",
+      "valid": true
+    },
+    {
+      "index": 87,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811593672",
+      "valid": true
+    },
+    {
+      "index": 88,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811594172",
+      "valid": true
+    },
+    {
+      "index": 89,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811597732",
+      "valid": true
+    },
+    {
+      "index": 90,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811598682",
+      "valid": true
+    },
+    {
+      "index": 91,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811598992",
+      "valid": true
+    },
+    {
+      "index": 92,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811600202",
+      "valid": true
+    },
+    {
+      "index": 93,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811600792",
+      "valid": true
+    },
+    {
+      "index": 94,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811604542",
+      "valid": true
+    },
+    {
+      "index": 95,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811605212",
+      "valid": true
+    },
+    {
+      "index": 96,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811605352",
+      "valid": true
+    },
+    {
+      "index": 97,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811607002",
+      "valid": true
+    },
+    {
+      "index": 98,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811608602",
+      "valid": true
+    },
+    {
+      "index": 99,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811610402",
+      "valid": true
+    },
+    {
+      "index": 100,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "811613932",
+      "valid": true
+    }
+  ],
+  "evidence": {
+    "available_claim_count": 122,
+    "evidence_count": 122,
+    "linked_evidence_reference_count": 122,
+    "span_validity_percent": 100.0,
+    "unsupported_claim_count": 0
+  },
+  "findings": [],
+  "identity": {
+    "matching_count": 100,
+    "mismatch_count": 0,
+    "missing_identity_count": 0,
+    "precision_percent": 100.0,
+    "requested_count": 100
+  },
+  "passed": true,
+  "refresh": {
+    "change_event_count": 0,
+    "change_type_counts": {},
+    "envelopes_with_changes": 0,
+    "snapshot_count": 670
+  },
+  "report_digest": "a03d20d0e1f27b0766ca359ebe474114097178210c807352a74dbd03f134883a",
+  "report_version": "signalpost-eval/1",
+  "requests": {
+    "per_envelope": {
+      "count": 100,
+      "max": 7.0,
+      "mean": 1.46,
+      "median": 1.0,
+      "min": 1.0,
+      "p95": 3.0
+    },
+    "total_cost_usd": 0.0,
+    "total_requests": 146
+  },
+  "runtime": {
+    "cost_usd": {
+      "count": 100,
+      "max": 0.0,
+      "mean": 0.0,
+      "median": 0.0,
+      "min": 0.0,
+      "p95": 0.0
+    },
+    "runtime_ms": {
+      "count": 100,
+      "max": 54438.0,
+      "mean": 14181.23,
+      "median": 7171.0,
+      "min": 813.0,
+      "p95": 49093.0
+    }
+  },
+  "schema": {
+    "envelope_count": 100,
+    "error_count": 0,
+    "errors_by_category": {},
+    "extra_envelope_count": 0,
+    "input_count": 100,
+    "invalid_envelope_count": 0,
+    "missing_envelope_count": 0,
+    "one_envelope_per_input": true,
+    "paired_count": 100,
+    "valid_envelope_count": 100
+  }
+}

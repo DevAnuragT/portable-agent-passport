@@ -1,0 +1,103 @@
+{
+  "availability": {
+    "claim_states": {
+      "ambiguous": 0,
+      "available": 7,
+      "blocked": 0,
+      "failed": 0,
+      "not_applicable": 0,
+      "not_available": 3
+    },
+    "envelope_states": {
+      "ambiguous": 0,
+      "available": 1,
+      "blocked": 0,
+      "failed": 0,
+      "not_applicable": 0,
+      "not_available": 0
+    },
+    "profile_section_states": {
+      "ambiguous": 0,
+      "available": 5,
+      "blocked": 0,
+      "failed": 0,
+      "not_applicable": 0,
+      "not_available": 2
+    }
+  },
+  "envelopes": [
+    {
+      "index": 1,
+      "issue_codes": [],
+      "issue_count": 0,
+      "organisation_number": "923609016",
+      "valid": true
+    }
+  ],
+  "evidence": {
+    "available_claim_count": 7,
+    "evidence_count": 7,
+    "linked_evidence_reference_count": 7,
+    "span_validity_percent": 100.0,
+    "unsupported_claim_count": 0
+  },
+  "findings": [],
+  "identity": {
+    "matching_count": 1,
+    "mismatch_count": 0,
+    "missing_identity_count": 0,
+    "precision_percent": 100.0,
+    "requested_count": 1
+  },
+  "passed": true,
+  "refresh": {
+    "change_event_count": 0,
+    "change_type_counts": {},
+    "envelopes_with_changes": 0,
+    "snapshot_count": 6
+  },
+  "report_digest": "02d5078bafc39598dc07aa35dc25f7dd5fd57a6519923d1a1408b86d9407a374",
+  "report_version": "signalpost-eval/1",
+  "requests": {
+    "per_envelope": {
+      "count": 1,
+      "max": 6.0,
+      "mean": 6.0,
+      "median": 6.0,
+      "min": 6.0,
+      "p95": 6.0
+    },
+    "total_cost_usd": 0.0,
+    "total_requests": 6
+  },
+  "runtime": {
+    "cost_usd": {
+      "count": 1,
+      "max": 0.0,
+      "mean": 0.0,
+      "median": 0.0,
+      "min": 0.0,
+      "p95": 0.0
+    },
+    "runtime_ms": {
+      "count": 1,
+      "max": 6896.0,
+      "mean": 6896.0,
+      "median": 6896.0,
+      "min": 6896.0,
+      "p95": 6896.0
+    }
+  },
+  "schema": {
+    "envelope_count": 1,
+    "error_count": 0,
+    "errors_by_category": {},
+    "extra_envelope_count": 0,
+    "input_count": 1,
+    "invalid_envelope_count": 0,
+    "missing_envelope_count": 0,
+    "one_envelope_per_input": true,
+    "paired_count": 1,
+    "valid_envelope_count": 1
+  }
+}

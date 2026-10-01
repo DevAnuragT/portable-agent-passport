@@ -1,0 +1,2 @@
+# Signalpost has no runtime dependencies.  The empty lock is intentional:
+# deterministic offline execution uses only the Python standard library.
